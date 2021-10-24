@@ -1,36 +1,4 @@
-# Climate Claims Assignment
-## Top 5 Compelling Skeptics Claims
-1. https://www.foxnews.com/transcript/dr-patrick-michaels-on-the-truth-about-global-warming 
-
-This is an interview with a climatologist that claims that of the 32 international climate models, only one accurately aligns with observation because the other 31 are parameterized to fit expected outcomes.
-
-This is convincing partly because the climatologist has a credible background including being a reviewer of the 2007 IPCC climate change report, as well as also having plausible explanations as to why the models are parameterized and how he knows they are inaccurate.
-
-2. http://www.drroyspencer.com/global-warming-101/ 
-
-This source claims that the models used to measure the human impact on climate are based on the unwarranted assumption that Earth’s energy budget is naturally balanced and do not account for unpredictable feedback systems or natural changes in climate. 
-
-This is convincing because I do know that climate has changed naturally in the past and the effects of temperature are unpredictable so I accept the possibility that these models do not account for these potentially significant factors. 
-
-3. http://icecap.us/images/uploads/MLK2.pdf 
-
-This is a literature review that claims the sea level will only rise 23 cm in the next century due to climate change, severely contrasting the IPCC 2007 claims.
-
-The article looks at a few different articles, describing their methods and using their obtained data to form a prediction, making this article very convincing.
-
-4. http://www.co2science.org/articles/V24/aug/a1.php 
-
-This source criticizes the IPCC claims that the Paleocene-Eocene Thermal Maximum is an appropriate analogy for climate change today and concludes that the increase in CO2 in that era was not the cause of the consequent increase in temperature so we can not use that event to predict the future of climate change. 
-
-This claim appears convincing because it goes very deep into geological data and makes some statements that intuitively make sense based on evidence. 
-
-5. https://search.informit.org/doi/10.3316/INFORMIT.372230274038227 
-
-The claim of this source is that the climate is indeed warming due to increased greenhouse gases, but this is not necessarily a bad thing because warmer and wetter climate is beneficial to life and the idea that warmer climate causes less stability and more natural disasters is false.
-
-This claim is supposedly a peer reviewed article with proper citations to other sources that also appear to be peer reviewed journals, which strengthens the article's credibility.
-
-## The Accuracy of Climate Models
+# The Accuracy of Climate Models 
 
 Upon first glance, Dr. Patrick Michaels appears to be a critical observer of climate changes with an extensive background in climatology research. After further inspection however, it is revealed that Michaels has a rich history of working for and receiving funding from members of the fossil fuel industry both directly and through front groups (Dunlap and Jacques, 2013). On fox news he appeared in an interview to make the following arguments against the significance of climate change (Michaels, 2018). 
 
@@ -39,9 +7,6 @@ His argument is that CO2 induced climate change only started in the 1970s, meani
 The first claim to be addressed is the idea that global warming in the 1920-1940s was not caused by greenhouse gases. An article in the American Meteorological Society shows that this is largely incorrect. It is shown that global warming in the 1920s can be accurately modelled by increased greenhouse gas emissions that occurred in that time indicating most of the warming was caused by external forcings (Haustein, et al., 2019). There is evidence that the remainder of the observed warming was due to instrumental error from the transition between different measurement techniques (Thompson, et al., 2008; Haustein, et al., 2019).
 
 His next argument states that the climate models used by the UN to predict tropospheric temperatures are inaccurate. He claims that the models predicted seven times more warming than what is currently measured and this is due to the parameterization of models. It is true that these models are parameterized to match historical climate observations (Flato, et al., 2013) and it is also true that there is deviation between the models and the measurements (Santer, et al., 2017). However, Santer, et al. (2017) performed an in depth analysis on the potential causes for this deviation. They determined it is unlikely that the difference is due to miscalculating the climate sensitivity to anthropogenic greenhouse gases but rather a combination of unpredictable factors like an unusually low minimum in solar energy output in the last solar cycle, a series of volcanic eruptions, and an uptick in Chinese coal power plants (Santers, et al., 2017). These unpredictable factors have created a difference in the extent to which the troposphere is warming over time, but the fact remains that the troposphere is warming. This source concludes by saying although short term climate is difficult to predict, this does not cast doubt on the reality of anthropogenic climate change (Santers, et al., 2017). As these sources are peer reviewed, admit the limitations of their own study and are published in reputable science and climatology journals, the credibility of this information is strong and clearly contradicts the unfounded claims made in this interview.
-
-## Commonalities
-Some commonalities between these claims are that many find ways to deny scientific evidence by looking at inaccuracies of measurements and models that predict the future of climate change. It is commonly said that because the climate system is so complicated, it is impossible to know what will happen in the future. The fallacy is that although they are right that model precision is modest, this does not mean that accuracy is low. The ability to make general predictions is not hindered by the inability to predict smaller details of the future. It is also popular for people to accept the fact that the climate is changing but excuse themselves from responsibility by claiming that climate change is natural or that it will not be as detrimental as anticipated. They accept evidence of climate change but deny the associated responsibility, which is inherently biased.
 
 ## Work Cited
 Dunlap, R.E. and Jacques, P.J., 2013. Climate Change Denial Books and Conservative Think Tanks. The American Behavioral Scientist, 57(6), pp.699–731. https://doi.org/10.1177/0002764213477096.
