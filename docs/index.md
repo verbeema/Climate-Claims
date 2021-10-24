@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# The Accuracy of Climate Models 
 
-You can use the [editor on GitHub](https://github.com/verbeema/Climate-Claims/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Upon first glance, Dr. Patrick Michaels appears to be a critical observer of climate changes with an extensive background in climatology research. After further inspection however, it is revealed that Michaels has a rich history of working for and receiving funding from members of the fossil fuel industry both directly and through front groups (Dunlap and Jacques, 2013). On fox news he appeared in an interview to make the following arguments against the significance of climate change (Michaels, 2018). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+His argument is that CO2 induced climate change only started in the 1970s, meaning that half of the temperature increase from pre-industrial conditions is due to human activities. In addition, the warming we have seen in the past 50 years is much less than what the models predict because they have been parameterized to match the climate warming recorded in the 1920s. Since this warming was not caused by CO2 the models are inappropriate for modelling today’s climate. These points are used as evidence to support the main theme of the interview that policy is based on exaggerated data regarding the impact of climate change. This argument stood out because Michaels has extensive credentials as a climatologist and even reviewed the 2007 IPCC report (Michaels, 2018). The arguments he provided were very logical and persuasive upon first glance. The televisation of this type of persuasion on a popular news network in a country with one of the largest carbon footprints in the world makes it a dangerous source of misinformation. 
 
-### Markdown
+The first claim to be addressed is the idea that global warming in the 1920-1940s was not caused by greenhouse gases. An article in the American Meteorological Society shows that this is largely incorrect. It is shown that global warming in the 1920s can be accurately modelled by increased greenhouse gas emissions that occurred in that time indicating most of the warming was caused by external forcings (Haustein, et al., 2019). There is evidence that the remainder of the observed warming was due to instrumental error from the transition between different measurement techniques (Thompson, et al., 2008; Haustein, et al., 2019).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+His next argument states that the climate models used by the UN to predict tropospheric temperatures are inaccurate. He claims that the models predicted seven times more warming than what is currently measured and this is due to the parameterization of models. It is true that these models are parameterized to match historical climate observations (Flato, et al., 2013) and it is also true that there is deviation between the models and the measurements (Santer, et al., 2017). However, Santer, et al. (2017) performed an in depth analysis on the potential causes for this deviation. They determined it is unlikely that the difference is due to miscalculating the climate sensitivity to anthropogenic greenhouse gases but rather a combination of unpredictable factors like an unusually low minimum in solar energy output in the last solar cycle, a series of volcanic eruptions, and an uptick in Chinese coal power plants (Santers, et al., 2017). These unpredictable factors have created a difference in the extent to which the troposphere is warming over time, but the fact remains that the troposphere is warming. This source concludes by saying although short term climate is difficult to predict, this does not cast doubt on the reality of anthropogenic climate change (Santers, et al., 2017). As these sources are peer reviewed, admit the limitations of their own study and are published in reputable science and climatology journals, the credibility of this information is strong and clearly contradicts the unfounded claims made in this interview.
 
-```markdown
-Syntax highlighted code block
+## Work Cited
+Dunlap, R.E. and Jacques, P.J., 2013. Climate Change Denial Books and Conservative Think Tanks. The American Behavioral Scientist, 57(6), pp.699–731. https://doi.org/10.1177/0002764213477096.
 
-# Header 1
-## Header 2
-### Header 3
+Flato, G., J. Marotzke, B. Abiodun, P. Braconnot, S.C. Chou, W. Collins, P. Cox, F. Driouech, S. Emori, V. Eyring, C. Forest, P. Gleckler, E. Guilyardi, C. Jakob, V. Kattsov, C. Reason and M. Rummukainen, 2013: Evaluation of Climate Models. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
 
-- Bulleted
-- List
+Haustein, K., Otto, F.E.L., Venema, V., Jacobs, P., Cowtan, K., Hausfather, Z., Way, R.G., White, B., Subramanian, A. and Schurer, A.P., 2019. A Limited Role for Unforced Internal Variability in Twentieth-Century Warming. Journal of Climate, 32(16), pp.4893–4917. https://doi.org/10.1175/JCLI-D-18-0555.1.
 
-1. Numbered
-2. List
+Michaels, P., 2018. Dr. Patrick Michaels on the truth about global warming. Interviewed by... Mark Levin. [television] Fox News, 21 October 2018.
 
-**Bold** and _Italic_ and `Code` text
+Santer, B.D., Fyfe, J.C., Pallotta, G., Flato, G.M., Meehl, G.A., England, M.H., Hawkins, E., Mann, M.E., Painter, J.F., Bonfils, C., Cvijanovic, I., Mears, C., Wentz, F.J., Po-Chedley, S., Fu, Q. and Zou, C.-Z., 2017. Causes of differences in model and satellite tropospheric warming rates. Nature Geoscience, 10(7), pp.478–485. https://doi.org/10.1038/ngeo2973.
 
-[Link](url) and ![Image](src)
-```
+Thompson, D.W.J., Kennedy, J.J., Wallace, J.M. and Jones, P.D., 2008. A large discontinuity in the mid-twentieth century in observed global-mean surface temperature. Nature, 453(7195), pp.646–649. https://doi.org/10.1038/nature06982.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/verbeema/Climate-Claims/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
